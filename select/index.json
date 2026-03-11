@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リミットノート",
+  "base_artist": "成人男性三人組",
+  "createdAt": "2026-03-11T04:22:35.681739Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リミットノート",
+      "artist": "成人男性三人組",
+      "has_synced": false,
+      "path": "select/pl_01_リミットノート_成人男性三人組.txt"
+    }
+  ]
+}
